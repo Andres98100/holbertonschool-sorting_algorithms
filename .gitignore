@@ -1,0 +1,4 @@
+# Git Ignore
+
+main.c
+.vscode
